@@ -52,7 +52,7 @@ export default function AIModelsPage() {
 
       <p className="text-scientific mt-4">
         In our alchemical framework, Copilot is a <strong>catalyst</strong> — it accelerates 
-        reactions (coding tasks) without being consumed. Its molecular structure is optimized for 
+        reactions (coding tasks) without being consumed. Its molecular structure is optimized for{" "}
         <em>low activation energy</em>: minimal prompting yields maximum output.
       </p>
 
@@ -96,8 +96,8 @@ export default function AIModelsPage() {
       </SectionHeading>
 
       <p className="text-popular">
-        The next generation of models won't simply be <em>larger</em> — they'll be 
-        <strong>structurally different</strong>. New chromosome types may emerge: 
+        The next generation of models won't simply be <em>larger</em> — they'll be{" "}
+        <strong>structurally different</strong>. New chromosome types may emerge:
         Z-Chromion for multi-modal fusion, W-Chromion for world-model maintenance.
       </p>
 
