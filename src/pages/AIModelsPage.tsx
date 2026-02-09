@@ -244,7 +244,21 @@ export default function AIModelsPage() {
         that neither could achieve alone.
       </p>
 
-      <div className="mt-12 p-6 rounded-lg border border-primary/20 bg-card text-center">
+      <div className="mt-12 p-6 rounded-lg border border-primary/30 bg-secondary text-center">
+        <p className="text-muted-foreground text-sm mb-1">
+          Continue into the full theoretical depth
+        </p>
+        <a
+          href="https://github.com/tambetvali/LaegnaAIHDvisualization/blob/main/Chromosomar.md"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-2 font-display text-primary text-glow-gold hover:underline"
+        >
+          📜 Read the Extended Article on GitHub ↗
+        </a>
+      </div>
+
+      <div className="mt-6 p-6 rounded-lg border border-primary/20 bg-card text-center">
         <p className="text-muted-foreground text-sm">
           This is Part II of the Chem Visions series. For Part I — the beginning of the story — visit:
         </p>
