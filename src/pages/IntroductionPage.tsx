@@ -177,9 +177,23 @@ export default function IntroductionPage() {
       />
 
       <p className="text-popular mt-6">
-        This is <strong>mnemonic physics</strong> — not biology, not literal chemistry, but a way 
+        This is <strong>mnemonic physics</strong> — not biology, not literal chemistry, but a way
         to <em>see</em> AI. A bridge between intuition and theory, between imagination and engineering.
       </p>
+
+      <div className="mt-12 p-6 rounded-lg border border-primary/30 bg-secondary text-center">
+        <p className="text-muted-foreground text-sm mb-1">
+          Continue into the full theoretical depth
+        </p>
+        <a
+          href="https://github.com/tambetvali/LaegnaAIHDvisualization/blob/main/Chromosomar.md"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-2 font-display text-primary text-glow-gold hover:underline"
+        >
+          📜 Read the Extended Article on GitHub ↗
+        </a>
+      </div>
     </PageLayout>
   );
 }
